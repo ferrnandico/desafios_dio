@@ -1,3 +1,3 @@
-# Criando um Sistema Bancário com Python
+# Creating a Banking System with Python
 
-Programa simples que realiza operações de saque, depósito e mostra o extrato.
+A simple program that performs withdrawal, deposit operations, and displays the account statement.
